@@ -4,6 +4,7 @@
 
 <!-- backlink-building:github-repository:start -->
 ### makebestmusic.com
+- [AI Generated Music Copyright: The Human Authorship Test](makebestmusic.com/ai-generated-music-copyright-the-human-authorship-test.md)
 - [AI Mixing Works Best as a First Pass, Not a Final Verdict on Your Sound](makebestmusic.com/ai-mixing-works-best-as-a-first-pass-not-a-final-verdict-on-your-sound.md)
 - [AI Music Copyright Free? The Contract Trap Most Creators Miss](makebestmusic.com/ai-music-copyright-free-the-contract-trap-most-creators-miss.md)
 - [AI Music Prompts: Why Specificity Matters More Than the Tool](makebestmusic.com/ai-music-prompts-why-specificity-matters-more-than-the-tool.md)
