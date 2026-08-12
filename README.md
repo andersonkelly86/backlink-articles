@@ -11,6 +11,7 @@
 - [AI Music Copyright: What Counts as Human Authorship?](makebestmusic.com/ai-music-copyright-what-counts-as-human-authorship.md)
 - [AI Music Disclosure Is the Real Key to Distributing AI Generated Tracks](makebestmusic.com/ai-music-disclosure-is-the-real-key-to-distributing-ai-generated-tracks.md)
 - [AI Music Generators Work Best When You Match the Job](makebestmusic.com/ai-music-generators-work-best-when-you-match-the-job.md)
+- [AI Music Industry Shift: The New Bottleneck Is Trust](makebestmusic.com/ai-music-industry-shift-the-new-bottleneck-is-trust.md)
 - [AI Music Prompts: Why Specificity Matters More Than the Tool](makebestmusic.com/ai-music-prompts-why-specificity-matters-more-than-the-tool.md)
 - [AI Music Tells: The Missing Human Imperfection That Gives Synthetic Tracks Away](makebestmusic.com/ai-music-tells-the-missing-human-imperfection-that-gives-synthetic-tracks-away.md)
 - [AI Music Video Consistency Starts With a Visual Style Anchor](makebestmusic.com/ai-music-video-consistency-starts-with-a-visual-style-anchor.md)
