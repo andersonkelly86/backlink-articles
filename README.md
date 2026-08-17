@@ -18,6 +18,7 @@
 - [AI Music Prompts: Why Specificity Matters More Than the Tool](makebestmusic.com/ai-music-prompts-why-specificity-matters-more-than-the-tool.md)
 - [AI Music Tells: The Missing Human Imperfection That Gives Synthetic Tracks Away](makebestmusic.com/ai-music-tells-the-missing-human-imperfection-that-gives-synthetic-tracks-away.md)
 - [AI Music Video Consistency Starts With a Visual Style Anchor](makebestmusic.com/ai-music-video-consistency-starts-with-a-visual-style-anchor.md)
+- [AI Music Visualizer Generator: Why Aspect Ratio Comes Before Everything Else](makebestmusic.com/ai-music-visualizer-generator-why-aspect-ratio-comes-before-everything-else.md)
 - [AI Music Workflow: The Real Answer to Where to Make AI Music](makebestmusic.com/ai-music-workflow-the-real-answer-to-where-to-make-ai-music.md)
 - [AI Song Cover Quality Starts With Source Audio](makebestmusic.com/ai-song-cover-quality-starts-with-source-audio.md)
 - [AI Song Title Generator Prompts That Actually Work](makebestmusic.com/ai-song-title-generator-prompts-that-actually-work.md)
