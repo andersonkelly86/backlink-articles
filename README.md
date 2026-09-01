@@ -48,6 +48,7 @@
 - [Mureka AI Prompts: Why Specificity Beats Vibes in Music Generation](makebestmusic.com/mureka-ai-prompts-why-specificity-beats-vibes-in-music-generation.md)
 - [Original AI Rap Creation Beats Drake Voice Cloning](makebestmusic.com/original-ai-rap-creation-beats-drake-voice-cloning.md)
 - [Song Generator vs. Music Generator: Why the Category Matters More Than the Brand](makebestmusic.com/song-generator-vs-music-generator-why-the-category-matters-more-than-the-brand.md)
+- [Song Title Strategy: Why the Best Names Balance Clarity and Curiosity](makebestmusic.com/song-title-strategy-why-the-best-names-balance-clarity-and-curiosity.md)
 - [Soundful AI Music Generator: Why Producer-Seeded AI Music Matters](makebestmusic.com/soundful-ai-music-generator-why-producer-seeded-ai-music-matters.md)
 - [Source Audio Quality Is the Real Limit in AI Sheet Music Transcription](makebestmusic.com/source-audio-quality-is-the-real-limit-in-ai-sheet-music-transcription.md)
 - [Spotify AI Music Economics: Why Playlists Favor Machine-Made Tracks](makebestmusic.com/spotify-ai-music-economics-why-playlists-favor-machine-made-tracks.md)
